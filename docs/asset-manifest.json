@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.59e74333.chunk.js",
-    "main.js.map": "/static/js/main.59e74333.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.e6c0efca.chunk.js": "/static/js/2.e6c0efca.chunk.js",
-    "static/js/2.e6c0efca.chunk.js.map": "/static/js/2.e6c0efca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.abafe24f3844721c5ae5e06b45e48d47.js": "/precache-manifest.abafe24f3844721c5ae5e06b45e48d47.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/superhero/static/css/main.34de6062.chunk.css",
+    "main.js": "/superhero/static/js/main.8ce6a9eb.chunk.js",
+    "main.js.map": "/superhero/static/js/main.8ce6a9eb.chunk.js.map",
+    "runtime~main.js": "/superhero/static/js/runtime~main.79f59e53.js",
+    "runtime~main.js.map": "/superhero/static/js/runtime~main.79f59e53.js.map",
+    "static/js/2.e6c0efca.chunk.js": "/superhero/static/js/2.e6c0efca.chunk.js",
+    "static/js/2.e6c0efca.chunk.js.map": "/superhero/static/js/2.e6c0efca.chunk.js.map",
+    "index.html": "/superhero/index.html",
+    "precache-manifest.e07ce08ba351e86fa9d9f74cc89443e2.js": "/superhero/precache-manifest.e07ce08ba351e86fa9d9f74cc89443e2.js",
+    "service-worker.js": "/superhero/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/superhero/static/css/main.34de6062.chunk.css.map"
   }
 }
